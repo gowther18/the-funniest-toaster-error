@@ -1,6 +1,8 @@
 # the-funniest-toaster-error
 
 [![make.fun · u-eager-stork-81-9647-the-funniest-toaster-error-436406cd](https://make.fun/badge/u-eager-stork-81-9647-the-funniest-toaster-error-436406cd.svg)](https://make.fun/bounty/u-eager-stork-81-9647-the-funniest-toaster-error-436406cd?utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-the-funniest-toaster-error-436406cd)
+[![make.fun rank](https://make.fun/badge/u-eager-stork-81-9647-the-funniest-toaster-error-436406cd/gowther18/the-funniest-toaster-error/rank.svg)](https://make.fun/bounty/u-eager-stork-81-9647-the-funniest-toaster-error-436406cd)
+[![make.fun reward](https://make.fun/badge/u-eager-stork-81-9647-the-funniest-toaster-error-436406cd/gowther18/the-funniest-toaster-error/reward.svg)](https://make.fun/bounty/u-eager-stork-81-9647-the-funniest-toaster-error-436406cd)
 
 One line, 60 characters: the error message a kitchen toaster shows its owner when something goes wrong. The toaster reports the bagel and the lever as parties in a legal dispute, in the flat voice of an appliance error code.
 
